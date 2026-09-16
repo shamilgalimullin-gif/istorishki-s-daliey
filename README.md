@@ -2,6 +2,6 @@
 
 Сайт подкаста «Историшки с Далией»: сезоны, выпуски и встроенный плеер Яндекс Музыки.
 
-**Открыть сайт:** https://istorishki-s-daliey.shamilgalimullin.chatgpt.site
+**Открыть сайт:** https://shamilgalimullin-gif.github.io/istorishki-s-daliey/
 
 Исходники готовой статической версии находятся в папке `dist`.
